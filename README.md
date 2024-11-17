@@ -7,3 +7,7 @@ Python,matplotlib,numpy,pandas, Jupyter Notebooks,SQL,POWER_BI.
 ## IMAGE_OF_DASHBOARD
  
 ![Blue Simple Keep Calm Desktop Wallpaer](https://github.com/user-attachments/assets/1461cb3f-5fe6-4104-965f-b29452abcc6d)
+
+
+## DATA ANALYSIS WITH PYTHON
+
