@@ -28,3 +28,7 @@ Python,matplotlib,numpy,pandas, Jupyter Notebooks,SQL,POWER_BI.
 
 5.Building data pipeline
 
+
+
+## DATA_VISUALIZATION
+![Uploading VISUALIZATION.drawio.png…]()
