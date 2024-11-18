@@ -9,5 +9,10 @@ Python,matplotlib,numpy,pandas, Jupyter Notebooks,SQL,POWER_BI.
 ![Blue Simple Keep Calm Desktop Wallpaer](https://github.com/user-attachments/assets/1461cb3f-5fe6-4104-965f-b29452abcc6d)
 
 
-## DATA ANALYSIS WITH PYTHON
+## DATA ANALYSIS WITH PYTHON:-
+1.Importing Datasets
+2.Cleaning the Data
+3.Data frame manipulation
+4.Summarizing the Data
+5.Building data pipeline
 
