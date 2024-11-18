@@ -6,7 +6,8 @@ Python,matplotlib,numpy,pandas, Jupyter Notebooks,SQL,POWER_BI.
 ## E-commerce Data Model
 ![e_commerce_data_model (3) (1)](https://github.com/user-attachments/assets/ab0aa212-42e5-4465-bb82-92d6a071566c)
 
-## E-commerce Dimension_Model![diamension_model](https://github.com/user-attachments/assets/a718eb97-3e37-4b6e-b746-d802fbccdb81)
+## E-commerce Dimension_Model
+![diamension_model](https://github.com/user-attachments/assets/a718eb97-3e37-4b6e-b746-d802fbccdb81)
 
 
 
