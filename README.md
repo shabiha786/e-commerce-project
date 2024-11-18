@@ -31,4 +31,4 @@ Python,matplotlib,numpy,pandas, Jupyter Notebooks,SQL,POWER_BI.
 
 
 ## DATA_VISUALIZATION
-![Uploading VISUALIZATION.drawio.png…]()
+![VISUALIZATION drawio](https://github.com/user-attachments/assets/fcc9d4ad-8499-4440-a37f-131fdaaa81a8)
