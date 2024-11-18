@@ -11,8 +11,12 @@ Python,matplotlib,numpy,pandas, Jupyter Notebooks,SQL,POWER_BI.
 
 ## DATA ANALYSIS WITH PYTHON:-
 1.Importing Datasets
+
 2.Cleaning the Data
+
 3.Data frame manipulation
+
 4.Summarizing the Data
+
 5.Building data pipeline
 
