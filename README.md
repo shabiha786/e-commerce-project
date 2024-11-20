@@ -4,15 +4,19 @@ Analyzed a large dataset using Pandas for data cleaning and null value removal. 
 ### Technologies used:
 Python,matplotlib,numpy,pandas, Jupyter Notebooks,SQL,POWER_BI.
 ### Project Workflow:
-#### Data Collection:- Download raw eCommerce data from Kaggle, ensuring it contains customer details, sales transactions, and product performance information.
-#### Data Storage:- Load the raw data into a SQL database to organize and manage it efficiently.
-#### Data Loading:- Use Jupyter Notebooks to query the SQL database for data analysis. Tools like SQLAlchemy or pymysql can be used to connect SQL with Python.
-#### Data Cleaning and Transformation:- Clean and preprocess the data using Pandas:
-Handle missing values and outliers,Normalize and transform data into analysis-ready formats,Add new features.
-#### Exploratory Data Analysis (EDA):-  Analyze the data in Jupyter Notebooks using:
-Matplotlib and Seaborn for visualizing sales trends, customer segmentation, and product performance.
+#### Data Collection:-
+Download raw eCommerce data from Kaggle, ensuring it contains customer details, sales transactions, and product performance information.
+#### Data Storage:-
+Load the raw data into a SQL database to organize and manage it efficiently.
+#### Data Loading:-
+Use Jupyter Notebooks to query the SQL database for data analysis. Tools like SQLAlchemy or pymysql can be used to connect SQL with Python.
+#### Data Cleaning and Transformation:-
+Clean and preprocess the data using Pandas,Handle missing values and outliers,Normalize and transform data into analysis-ready formats,Add new features.
+#### Exploratory Data Analysis (EDA):-  
+Analyze the data in Jupyter Notebooks using,Matplotlib and Seaborn for visualizing sales trends, customer segmentation, and product performance.
 Statistical summaries to uncover patterns.
-#### Data Insights and Visualization:- Summarize insights and create visual reports using Power BI:
+#### Data Insights and Visualization:- 
+Summarize insights and create visual reports using Power BI:
 
 ## Architecture Map:- 
 ![MAP](https://github.com/user-attachments/assets/c03a8e10-9d83-499d-b004-7606fafe16ef)
