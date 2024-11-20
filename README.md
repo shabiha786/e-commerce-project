@@ -3,6 +3,11 @@
 Analyzed a large dataset using Pandas for data cleaning and null value removal. Developed a dimensional model and pipeline for processing, with visualizations created in Matplotlib, Seaborn, and a dashboard in Power BI. Tools: Pandas, NumPy, Matplotlib, Seaborn, Power BI.
 ### Technologies used:
 Python,matplotlib,numpy,pandas, Jupyter Notebooks,SQL,POWER_BI.
+
+## DATASETS LINK:-
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/
+
+
 ## E-commerce Data Model
 ![e_commerce_data_model (3) (1)](https://github.com/user-attachments/assets/ab0aa212-42e5-4465-bb82-92d6a071566c)
 
